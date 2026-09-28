@@ -1,0 +1,9 @@
+{
+  "name": "FrizzQOL_Smelter_Control",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/frizzlebeard/FrizzQOL.SmelterControl",
+  "description": "Set smelter, blast furnace, and charcoal kiln speed, and how much they hold.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
